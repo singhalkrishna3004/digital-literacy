@@ -1,0 +1,5 @@
+For this task, I used HackerRank for coding practice and Google Workspace tools for collaboration. On HackerRank, I created an account and completed a beginner-level python problem, which helped me understand basic problem-solving and coding logic. This platform is useful for improving programming skills, practising algorithms, and preparing for technical interviews.
+
+For the collaboration part, I created a Google Form titled “Digital Literacy Awareness Quiz” with five questions, including multiple-choice and short-answer types. The form was designed to test basic knowledge of digital literacy among my classmates. I also linked the responses to a Google Sheet, which helps in organizing and analyzing the collected data efficiently.
+
+These tools will be very helpful for my academic journey. HackerRank will allow me to regularly practise coding and strengthen my technical foundation over time. Google Forms and Sheets will help me in conducting surveys, collecting feedback, and managing data for projects and assignments. Overall, these platforms enhance both my technical and collaborative skills, which are essential for academic and professional growth.
